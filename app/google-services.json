@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "337585002730",
+    "firebase_url": "https://undangan-elektronik.firebaseio.com",
+    "project_id": "undangan-elektronik",
+    "storage_bucket": "undangan-elektronik.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:337585002730:android:52083730a1098a585b5f93",
+        "android_client_info": {
+          "package_name": "com.tomjerry.undangaelektronikproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "337585002730-vrgvf1gv2gpg6nh392b7strud6qi8buj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tomjerry.undangaelektronikproject",
+            "certificate_hash": "0f4eb7f541c5d7f37d93bed506e6f9a863cdc950"
+          }
+        },
+        {
+          "client_id": "337585002730-mi79to4ef9c11p4askt2a2aipklb0ju5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7V_MnqjvtrTcF-dyagGv7e8as1e-FBOc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "337585002730-mi79to4ef9c11p4askt2a2aipklb0ju5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
